@@ -5,9 +5,7 @@
 ### GitBook简介
 
 * [GitBook是什么](README.md)
-* [Gitbook有哪些功能](part1/writing.md)
-* [GitBook is nice](part1/gitbook.md)
-
+* [GitBook有哪些功能](part1/writing.md)
 ### 第二部
 
 * [We love feedback](part2/feedback_please.md)
