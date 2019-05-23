@@ -1,11 +1,19 @@
 # Summary
 
-* [Scala简介](README.md)
-* [Scala基本数据类型](chapter1)
-  * [第一节](chapter1/section1.md)
-  * [第二节](chapter1/section2.md)
-* [第二章](chapter2/README.md)
-  * [第一节](chapter2/section1.md)
-  * [第二节](chapter2/section2.md)
-* [结束](end/README.md)
+# Summary
+
+### 第一部
+
+* [Introduction](README.md)
+* [Writing is nice](part1/writing.md)
+* [GitBook is nice](part1/gitbook.md)
+
+### 第二部
+
+* [We love feedback](part2/feedback_please.md)
+* [Better tools for authors](part2/better_tools.md)
+
+----
+
+* [Last part without title](part3/title.md)
 
