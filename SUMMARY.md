@@ -9,7 +9,7 @@
 
 ### 安装GitBook
 
-* [We love feedback](part2/feedback_please.md)
+* [安装Node.js](chapter-2/section-1.md)
 * [Better tools for authors](part2/better_tools.md)
 
 ----
