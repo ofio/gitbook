@@ -2,7 +2,7 @@
 
 ### [个人博客](https://ofio.vip)
 ----
-### sdf 
+### Scala简介
 
 * [Introduction](README.md)
 * [Writing is nice](part1/writing.md)
