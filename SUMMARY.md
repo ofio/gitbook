@@ -2,7 +2,7 @@
 
 ### [个人博客](https://ofio.vip)
 ----
-### Github简介
+### GitBook简介
 
 * [GitBook是什么](README.md)
 * [Writing is nice](part1/writing.md)
