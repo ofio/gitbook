@@ -12,7 +12,4 @@
 * [安装Node.js](chapter-2/section-1.md)
 * [安装GitBook](chapter-2/section-2.md)
 
-----
-
-* [Last part without title](part3/title.md)
 
