@@ -4,7 +4,7 @@
 ----
 ### GitBook简介
 
-* [GitBook是什么](README.md)
+* [GitBook是什么](chapter-1/section-1.md)
 * [GitBook有哪些功能](part1/writing.md)
 ### 第二部
 
