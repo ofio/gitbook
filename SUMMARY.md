@@ -4,7 +4,7 @@
 ----
 ### Github简介
 
-* [Introduction](README.md)
+* [GitBook是什么](README.md)
 * [Writing is nice](part1/writing.md)
 * [GitBook is nice](part1/gitbook.md)
 
